@@ -1,0 +1,13 @@
+{
+    "texto": "Texto de Prueba",
+    "familia": "Calibri",
+    "negrita": false,
+    "cursiva": false,
+    "talla": 50,
+    "frenteR": 255,
+    "frenteV": 128,
+    "frenteA": 0,
+    "fondoR": 181,
+    "fondoV": 200,
+    "fondoA": 160
+}
